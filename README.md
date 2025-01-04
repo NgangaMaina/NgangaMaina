@@ -11,9 +11,6 @@ Still a student, but already mapping the intersections of code, systems, and sca
 * 🧠  I'm learning Network automation and security
 * 🤝  I'm open to collaborating on backend systems, database design, networking tools, and performance-driven projects
 
-<a href="https://www.x.com/nmaina_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/nmaina_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 ### Skills
 
 <p align="left">
@@ -23,10 +20,3 @@ src="https://img.shields.io/twitter/follow/nmaina_?logo=twitter&style=for-the-ba
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/NgangaMaina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://nmaish.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/nmaina_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/NgangaMaina"><img src="https://github-readme-stats.vercel.app/api?username=NgangaMaina&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NgangaMaina's GitHub stats" /></a>
-
-<a href="http://www.github.com/NgangaMaina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NgangaMaina&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
