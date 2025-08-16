@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-Still a student, but already mapping the intersections of code, systems, and scalability—one project at a time.
+Still a student, but already mapping the intersections of code, systems, and scalability. One project at a time.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [patricknmaina0@gmail.com](mailto:patricknmaina0@gmail.com)
