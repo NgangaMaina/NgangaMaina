@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on C0m, a compiler project.<br>I'm learning Assembly/X86-64 architecture, compiler design.<br>I'm looking to collaborate on backend systems, database design, networking tools, and performance-driven projects<br>I'm Certified in CCNA: Enterprise Networking, Security, and Automation, and TREE: Research Ethics<br>
+I'm currently working on C0m, a compiler project.<br>I'm learning Assembly/X86-64 architecture, compiler design.<br>I'm looking to collaborate on backend systems, database design, networking tools, and performance-driven projects.<br>I'm Certified in CCNA: Enterprise Networking, Security, and Automation, and TREE: Research Ethics.<br>
 
 
 ## 🌐 Socials:
