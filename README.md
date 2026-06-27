@@ -3,8 +3,8 @@
 </p>
 
 
-- 🔭 I'm currently working on C0m, an IR-Free compiler project.
-- 🌱 I'm learning Assembly/X86-64 architecture, compiler design.
+- 🔭 I'm currently working on C0m, an IR-Free compiler.
+- 🌱 I'm learning Assembly/X86-64 architecture and compiler design.
 - ⚡I'm looking to collaborate on backend systems, database design, networking tools, and performance-driven projects.
 
 ---
