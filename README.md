@@ -16,9 +16,6 @@
 ---
 
 
-
----
-
 ## Connect With Me
 
 - 📧 **Direct Contact:** patricknmaina0@gmail.com
